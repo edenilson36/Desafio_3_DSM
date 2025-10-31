@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountryExplorerApp</string>
+    <string name="regions_title">Regiones del Mundo</string>
+    <string name="countries_of">Países de %s</string>
+    <string name="loading_data">Cargando datos...</string>
+    <string name="error_message">Ocurrió un error al cargar los datos.</string>
+    <string name="population">Población:</string>
+    <string name="capital">Capital:</string>
+    <string name="current_weather_in">Clima actual en %s</string>
+</resources>
